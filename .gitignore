@@ -1,0 +1,7 @@
+*.tgz
+src/**/
+*.xz
+pkg/**/
+pkg
+src
+.SRCINFO
