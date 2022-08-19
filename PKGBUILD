@@ -1,7 +1,7 @@
 # Maintainer: Muflone http://www.muflone.com/contacts/english/
 
 pkgname=office
-pkgver=1046
+pkgver=1050
 pkgrel=1
 pkgdesc="A complete, reliable, lightning-fast and Microsoft Office-compatible office suite with a word processor, spreadsheet, and presentation graphics software."
 arch=('x86_64')
@@ -18,7 +18,7 @@ source=("http://www.softmaker.net/down/softmaker-${pkgname}-2021-${pkgver}-amd64
         "${pkgname}-textmaker.desktop"
         "${pkgname}-planmaker.desktop"
         "${pkgname}-presentations.desktop")
-sha256sums=('b3bf5f37da35cf38576cfca1556f5c380a96419cf87de7584a50340d6594d9ba'
+sha256sums=('b821c237a7af35f751838598a192fea076cbdb5d47b433a7ae3947317dd7943c'
             '25ab9aa51c13253e90cd2efccb3f8802da5e0127b1710f3559c391fa75b5a048'
             'e68c53076dde488f16fd640d792042e11d2733878db81c37fa6dc254355188cf'
             '84a58920ce186e117af30b7ee0f9e4dba9641dc0e8b7b744a2da01c0cb0b728b'
